@@ -8,3 +8,5 @@ public static void main(String[] args) {
 
         // Printing output to the console
         System.out.println(greeting);
+
+Code can be moved from local to repo 15 6 	
